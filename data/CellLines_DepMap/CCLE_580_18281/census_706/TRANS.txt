@@ -1,0 +1,7 @@
+Due to the large file size, 'Cell_line_RMA_proc_basalExp.txt' (transcriptomic data) is not included in this repository.
+
+You can manually download it from the [GDSC1000 official website](https://www.cancerrxgene.org/gdsc1000/GDSC1000_WebResources/Home.html).
+
+Direct download link:  
+[Cell_line_RMA_proc_basalExp.txt.zip]
+(https://www.cancerrxgene.org/gdsc1000/GDSC1000_WebResources/Data/preprocessed/Cell_line_RMA_proc_basalExp.txt.zip)
