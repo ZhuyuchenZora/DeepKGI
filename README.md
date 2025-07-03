@@ -1,7 +1,7 @@
 # DeepKGI
 DeepKGI: Drug Response Prediction with Cross-Layer Graph Fusion and Key Gene Identification
 
-![](./cdrflow chart.drawio.png)
+![Overview of DeepKGI](https://github.com/ZhuyuchenZora/DeepKGI/blob/main/cdrflow%20chart.drawio.png)
 
 ## Requirements
 - Please install the environment using anaconda3;  
