@@ -26,7 +26,7 @@ DeepKGI: Drug Response Prediction with Cross-Layer Graph Fusion and Key Gene Ide
 
 - `data/`: Contains the required dataset files.
 - `models/`: Implementation of the DeepKGI model.
-- `utils/`: Utility functions and data processing subroutines.
+- `utils.py`: Utility functions and data processing subroutines.
 - `preprocess_gene.py`: Preprocessing script for genetic profiles.
 - `smiles2graph.py`: Constructs molecular graphs from SMILES strings.
 - `main.py`: Train or test the DeepKGI model.
